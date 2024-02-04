@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LogJava001</string>
+    <string name="welcome_nback">Welcome\nBack</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password ?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="don_t_have_any_account">Don\'t have any account ?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="please_sign_up_here">Please Sign Up Here</string>
+    <string name="name">Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_have_an_account">Already have an account ?</string>
+</resources>
